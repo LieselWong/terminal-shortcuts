@@ -3,6 +3,7 @@
 ```
 unzip (name of zip file)
 ```
+unzips file 
 
 ```
 ls -a
