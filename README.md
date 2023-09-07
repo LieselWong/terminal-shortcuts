@@ -1,7 +1,10 @@
 # terminal-shortcuts
 
 ```
-function test() {
-  console.log("notice the blank line before this function?");
-}
+unzip (name of zip file)
 ```
+
+```
+ls -a
+```
+Shows all files in the github code including .gitignore or other formatting files 
