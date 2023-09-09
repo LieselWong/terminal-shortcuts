@@ -12,15 +12,19 @@ CS TERMS:
 - 
 Linux vs MacOS <br>
 Robot Operating System (ROS) <br>
+
+Machine Learning Languages: 
 TensorFlow <br>
 PyTorch <br>
 OpenCV <br>
 Scikit Learn <br>
-React <br>
-TypeScript <br>
-MongoDB <br>
 C/C++ <br>
-Django <br>
+
+Software Develpoment Languages
+Frontend: React <br>
+Web languages: TypeScript, Javascript <br>
+Databases: SQL, NoSQL, MongoDB <br>
+Backend: Django, Flask <br>
 
 TESTING: 
 -
