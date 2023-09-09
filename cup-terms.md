@@ -28,6 +28,7 @@ Backend: Django, Flask <br>
 
 TESTING: 
 -
+Robotics: <br>
 Line Test <br>
 Durability Tests <br>
 
