@@ -6,6 +6,7 @@ ECE TERMS:
 - 
 Machine Learning Core <br> 
 Data Cable (four wires) vs Charging Cable (two wires) <br>
+USB Shield <br> 
 
 CS TERMS: 
 - 
