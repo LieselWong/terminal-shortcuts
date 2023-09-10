@@ -19,6 +19,8 @@ PyTorch <br>
 OpenCV <br>
 Scikit Learn <br>
 C/C++ <br>
+Generative AI <br>
+
 
 Software Develpoment Languages: <br>
 Frontend: React <br>
