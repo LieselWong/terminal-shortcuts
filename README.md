@@ -11,6 +11,11 @@ ls -a
 ```
 Shows all files in the github code including .gitignore or other formatting files ssh clone link
 
+```
+git commit --amend
+```
+Fix a commit message
+
 -----
 ## SWITCHING BETWEEN REPOS IN TERMINAL
 First thing you want to do is create the repository you would like to push to possibly through github website
