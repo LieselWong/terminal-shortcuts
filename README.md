@@ -1,4 +1,15 @@
-# terminal-shortcuts
+# shortcuts
+
+## MACOS KEYBOARD SHORTCUTS
+```
+command / 
+```
+Adds comments around the line 
+
+```
+shift ( 
+```
+Adds parenthesis around a line
 
 ## COMMANDS
 ```
