@@ -5,7 +5,7 @@
 ```
 command / 
 ```
-<code style="color : Aqua"> Adds comments around the line </code>
+<span style="color: Aqua"> Adds comments around the line  </span>
 
 ```
 shift ( 
