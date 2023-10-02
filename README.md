@@ -1,4 +1,4 @@
-# shortcuts
+# <code style="color : name_color">shortcut</code>
 
 ## MACOS KEYBOARD SHORTCUTS
 -----
