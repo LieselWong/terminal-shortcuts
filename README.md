@@ -1,4 +1,4 @@
-# shortcut
+# SHORTCUT
 
 ## MACOS KEYBOARD SHORTCUTS
 -----
