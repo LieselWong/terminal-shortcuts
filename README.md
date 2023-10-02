@@ -1,6 +1,7 @@
 # shortcuts
 
 ## MACOS KEYBOARD SHORTCUTS
+-----
 ```
 command / 
 ```
@@ -11,7 +12,9 @@ shift (
 ```
 Adds parenthesis around a line
 
-## COMMANDS
+## TERMINAL COMMANDS
+-----
+### GENERAL COMMANDS
 ```
 unzip (name of zip file)
 ```
@@ -28,7 +31,7 @@ git commit --amend
 Fix a commit message
 
 -----
-## SWITCHING BETWEEN REPOS IN TERMINAL
+### SWITCHING BETWEEN REPOS IN TERMINAL
 First thing you want to do is create the repository you would like to push to possibly through github website
 To push to a specific repository on command line do this code, where the url is the 
 ```
