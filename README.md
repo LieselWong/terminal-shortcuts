@@ -21,13 +21,28 @@ git init
 Create git repo 
 
 ```
+git add .
+```
+Add all files that are changed. Can also add specific files by typing in the name after add
+
+```
+git commit -m "Import release code"
+```
+If you don't have the -m then you can commit multiple line messages by taking out the -m and following string
+
+```
 git remote add origin <ADD SSH URL>
 ```
 Get the SSH of the github you created on the web to add to the end. This sets which repo you want to push to. The name of this 
 new repo is origin which we reference in the next command 
 
 ```
-git push --set-upstream origin <INSERT-NAME-OF-BRANCH-YOU-WANT-TO-PUSH-TO>
+git branch -M main
+```
+Set current branch to name main or branch you want to push to
+
+```
+git push -u origin main or git push --set-upstream origin main
 ```
 Push to correct branch 
 
