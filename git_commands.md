@@ -62,3 +62,6 @@ git remote set-url <REMOTE-NAME> <NEW-URL>
 ```
 
 [Cloudbees source](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
+
+### GIT BRANCHES
+
