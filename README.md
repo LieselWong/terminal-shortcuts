@@ -12,7 +12,7 @@ shift (
 ```
 Adds parenthesis around a line
 
-### GENERAL COMMANDS
+### GENERAL TERMINAL COMMANDS
 ```
 unzip (name of zip file)
 ```
