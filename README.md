@@ -14,6 +14,23 @@ Adds parenthesis around a line
 
 ## TERMINAL COMMANDS
 -----
+### CREATING A GIT REPOSITORY
+```
+git init 
+```
+Create git repo 
+
+```
+git remote add origin <ADD SSH URL>
+```
+Get the SSH of the github you created on the web to add to the end. This sets which repo you want to push to. The name of this 
+new repo is origin which we reference in the next command 
+
+```
+git push --set-upstream origin <INSERT-NAME-OF-BRANCH-YOU-WANT-TO-PUSH-TO>
+```
+Push to correct branch 
+
 ### GENERAL COMMANDS
 ```
 unzip (name of zip file)
