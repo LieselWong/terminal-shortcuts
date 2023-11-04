@@ -23,3 +23,9 @@ ls -a
 ```
 Shows all files in the github code including .gitignore or other formatting files ssh clone link
 
+```
+chmod u+x <sh file name> 
+```
+Add the executable bit to the owner of the file while ignoring the umask . Not exactly sure what it means but fixes 
+'Permission Denied to run <sh file name> error 
+
