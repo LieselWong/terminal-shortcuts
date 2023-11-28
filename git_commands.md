@@ -2,6 +2,16 @@
 -----
 ### CREATING A GIT REPOSITORY
 ```
+echo "# cs3110-a4" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.coecis.cornell.edu:lyw8/cs3110-a4.git
+git push -u origin main
+```
+
+```
 git init 
 ```
 Create git repo 
