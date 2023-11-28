@@ -7,7 +7,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin git@github.coecis.cornell.edu:lyw8/cs3110-a4.git
+git remote add origin <REPO'S SSH URL>
 git push -u origin main
 ```
 
