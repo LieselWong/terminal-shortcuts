@@ -74,4 +74,22 @@ git remote set-url <REMOTE-NAME> <NEW-URL>
 [Cloudbees source](https://www.cloudbees.com/blog/remote-origin-already-exists-error)
 
 ### GIT BRANCHES
+First thing is to create a branch from your git repository and pull from main 
+
+We then want to be able to access this remote branch from our terminal. Type 
+```
+git branch -r
+```
+
+Then to get the branch you just created
+```
+git fetch 
+```
+
+And then finally switch to the branch you want using 
+```
+git switch <name-of-branch>
+```
+
+
 
