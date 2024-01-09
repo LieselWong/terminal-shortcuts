@@ -1,4 +1,31 @@
 ## TERMINAL COMMANDS
+
+### ~ CUSTOMIZING TERMINAL ~
+ 
+https://www.youtube.com/watch?v=C92eaq_bZR8 
+
+https://www.notion.so/Customizing-Your-Bash-Prompt-ef312daad923421c859bda
+89a5dd1792
+^above is a link that got cut off
+
+https://www.youtube.com/watch?v=ilRVbYvKPEM
+
+------
+common special characters in terminal: 
+- \d - current date
+- \h - host name
+- \u - username of current user 
+- \t - current time in military HH:MM:SS
+- \@ - current time in 12 hour HH:MM am/pm
+- \w - path to current working directory 
+
+ex: PS1="I am \u " in the home directory changes terminal prompt to I am 
+\u ***IDK WHY THE SPECIAL CHARACTER ISN'T WORKING
+
+common terminal customization: PS1="\h:\u" 
+
+***ISSUE: special characters weren't working in terminal***
+
 -----
 ### CREATING A GIT REPOSITORY
 ```
