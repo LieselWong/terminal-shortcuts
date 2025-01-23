@@ -1,4 +1,16 @@
 # SHORTCUTS
+## Virutal Environment 
+-----
+```
+python3 -m venv ./venv
+```
+create
+
+```
+source ./venv/bin/activate
+```
+activate
+
 
 ## MACOS KEYBOARD SHORTCUTS
 -----
