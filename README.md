@@ -4,7 +4,7 @@
 ```
 python3 -m venv ./venv
 ```
-create
+./venv is name of folder of the virtual, can change
 
 ```
 source ./venv/bin/activate
